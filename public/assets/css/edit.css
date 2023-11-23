@@ -1,0 +1,259 @@
+/* LINK TO GOOGLE FONT */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Poppins";
+    background-color: #ffffff;
+}
+.content-edit-data{
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+.form-data {
+    position: relative;
+    left: 32%;
+    top: 50px;
+
+    background: #ffffff;
+    border-radius: 15px;
+    height: 350px;
+    width: 500px;
+    box-shadow: 1px 1px 5px 5px  #D9D9D9;
+}
+.back {
+    position: relative;
+    left: 50px;
+    text-decoration: none;
+    color: #ffffff;
+    background: #143074;
+    padding: 5px 25px;
+    border-radius: 5px;
+    transition: all .5s;
+}
+.back:hover {
+    background: #E7EEFB;
+    color: #143074;
+    font-weight: 600;
+}
+/* FORM EDIT SERTIFIKAT */
+/* LABEL 1 */
+.label-form-input-data-one {
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.input-form-one {
+    position: relative;
+    left: 175px;
+    top: 50px;
+    border: none;
+    outline: none;
+    background-color: #D9D9D9;
+    opacity: 0.6;
+    height: 10px;
+    width: 225px;
+    margin: 2px;
+    padding: 8px;
+    border-radius: 2px;
+}
+/* LABEL 2 */
+.label-form-input-data-two {
+    position: relative;
+    top: 70px;
+    left: 50px;
+}
+.input-form-two {
+    position: relative;
+    left: 155px;
+    top: 70px;
+    border: none;
+    outline: none;
+    background-color: #D9D9D9;
+    opacity: 0.6;
+    height: 10px;
+    width: 225px;
+    margin: 2px;
+    padding: 8px;
+    border-radius: 2px;
+}
+/* LABEL 3 */
+.label-form-input-data-three {
+    position: relative;
+    top: 90px;
+    left: 50px;
+}
+.input-form-three {
+    position: relative;
+    left: 78px;
+    top: 90px;
+    border: none;
+    outline: none;
+    background-color: #D9D9D9;
+    opacity: 0.6;
+    height: 10px;
+    width: 225px;
+    margin: 2px;
+    padding: 8px;
+    border-radius: 2px;
+}
+/* LABEL 4 */
+.label-form-input-data-four {
+    position: relative;
+    top: 120px;
+    left: 50px;
+}
+.input-form-four {
+    position: relative;
+    left: 75px;
+    top: 120px;
+}
+.button-input-data-one  {
+    position: relative;
+    top: 150px;
+    left: 30%;
+    border: none;
+    outline: none;
+    background: #143074;
+    border-radius: 5px;
+    width: 200px;
+    height: 35px;
+
+    color: #ffffff;
+    font-family: "Poppins";
+    font-size: 15px;
+
+}
+/* FORM EDIT USER & ADMIN */
+/* LABEL 1 */
+.label-form-input-data-one {
+    position: relative;
+    top: 50px;
+    left: 50px;
+    font-weight: 500;
+}
+.input-form-user-one {
+    position: relative;
+    left: 155px;
+    top: 50px;
+    border: none;
+    outline: none;
+    background-color: #D9D9D9;
+    opacity: 0.6;
+    height: 10px;
+    width: 225px;
+    margin: 2px;
+    padding: 8px;
+    border-radius: 2px;
+}
+/* LABEL 2 */
+.label-form-input-data-two {
+    position: relative;
+    top: 70px;
+    left: 50px;
+    font-weight: 500;
+}
+.input-form-user-two {
+    position: relative;
+    left: 121px;
+    top: 70px;
+    border: none;
+    outline: none;
+    background-color: #D9D9D9;
+    opacity: 0.6;
+    height: 10px;
+    width: 225px;
+    margin: 2px;
+    padding: 8px;
+    border-radius: 2px;
+}
+/* LABEL 3 */
+.label-form-input-data-three {
+    position: relative;
+    top: 90px;
+    left: 50px;
+    font-weight: 500;
+}
+.input-form-user-three {
+    position: relative;
+    left: 135px;
+    top: 90px;
+    border: none;
+    outline: none;
+    background-color: #D9D9D9;
+    opacity: 0.6;
+    height: 10px;
+    width: 225px;
+    margin: 2px;
+    padding: 8px;
+    border-radius: 2px;
+}
+.label-form-input-data-one {
+    position: relative;
+    top: 50px;
+    left: 50px;
+    font-weight: 500;
+}
+.input-form-Admin-one {
+    position: relative;
+    left: 155px;
+    top: 50px;
+    border: none;
+    outline: none;
+    background-color: #D9D9D9;
+    opacity: 0.6;
+    height: 10px;
+    width: 225px;
+    margin: 2px;
+    padding: 8px;
+    border-radius: 2px;
+}
+/* LABEL 2 */
+.label-form-data-two {
+    position: relative;
+    top: 70px;
+    left: 50px;
+    font-weight: 500;
+}
+.input-form-Admin-two {
+    position: relative;
+    left: 121px;
+    top: 70px;
+    border: none;
+    outline: none;
+    background-color: #D9D9D9;
+    opacity: 0.6;
+    height: 10px;
+    width: 225px;
+    margin: 2px;
+    padding: 8px;
+    border-radius: 2px;
+}
+/* LABEL 3 */
+.label-form-input-data-three {
+    position: relative;
+    top: 90px;
+    left: 50px;
+    font-weight: 500;
+}
+.input-form-Admin-three {
+    position: relative;
+    left: 135px;
+    top: 90px;
+    border: none;
+    outline: none;
+    background-color: #D9D9D9;
+    opacity: 0.6;
+    height: 10px;
+    width: 225px;
+    margin: 2px;
+    padding: 8px;
+    border-radius: 2px;
+}
+.button-input-data-one:hover  {
+    color: #E7EEFB;
+}
